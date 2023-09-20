@@ -1,0 +1,3 @@
+http://backend.course#max001k
+http://backend.course?name=%22Karvatsky%20Maxym%22&github_name=max001k&group=%E2%80%9C%D0%A4%D0%95%D0%86-26%D1%81%22&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20230301&end=20230320&valcode=eur&sort=exchangedate&order=desc&json
